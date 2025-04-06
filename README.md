@@ -4,7 +4,7 @@
 
 Look at these images, and think about what they have in common.
 
-![Dual image, one of people in a coffeeshop, and one of people in a coworking space](/coffeeshop_and_coworking.png "Coffeeshop and Coworking Space")
+![Dual image, one of people in a coffeeshop, and one of people in a coworking space](/images/coffeeshop_and_coworking.png "Coffeeshop and Coworking Space")
 
 We all know they have something intangible in common, but what?  I've tried to define it and failed every time. 	The closest term I've found for them is that they're all "shared spaces", but even that isn't quite right. 	Maybe there isn't a term for it, and isn't that strange?
 
