@@ -1,5 +1,7 @@
 This is a technical discussion of [Thirdplace.tv](https://www.thirdplace.tv), a new dynamic, spatial, livestream multiviewer that immerses the user in the world of livestreaming in a way never before possible, and which could also be the solution to remote work.
 
+A copy of this discussion can be found at [https://www.thirdplace.tv/howthisworks.html](https://www.thirdplace.tv/howthisworks.html).
+
 # Section I: Introduction
 
 Look at these images, and think about what they have in common.
