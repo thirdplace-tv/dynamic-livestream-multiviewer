@@ -1,4 +1,4 @@
-# Technical Discussion: Dynamic Livestream Multiviewer
+This is a technical discussion of Thirdplace.tv, a new dynamic, spatial, livestream multiviewer that immerses the user in the world of livestreaming in a way never before possible, and which could also be the solution to remote work.
 
 # Section I: Introduction
 
